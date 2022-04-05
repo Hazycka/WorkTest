@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AreaCalculatorLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AreaCalculatorLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AreaCalculatorLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaCalculatorLib/1.0.0": {
+      "type": "project",
+      "path": "../AreaCalculatorLib/AreaCalculatorLib.csproj",
+      "msbuildProject": "../AreaCalculatorLib/AreaCalculatorLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AreaCalculatorLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\hazyc\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Temp\\C# learning\\WorkTest\\AreaCalculator\\AreaCalculator.csproj",
+      "projectName": "AreaCalculator",
+      "projectPath": "D:\\Temp\\C# learning\\WorkTest\\AreaCalculator\\AreaCalculator.csproj",
+      "packagesPath": "C:\\Users\\hazyc\\.nuget\\packages\\",
+      "outputPath": "D:\\Temp\\C# learning\\WorkTest\\AreaCalculator\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hazyc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Temp\\C# learning\\WorkTest\\AreaCalculatorLib\\AreaCalculatorLib.csproj": {
+              "projectPath": "D:\\Temp\\C# learning\\WorkTest\\AreaCalculatorLib\\AreaCalculatorLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

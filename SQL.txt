@@ -1,0 +1,4 @@
+select CONCAT(p.title, ' - ', c.title) as result
+from product as p
+left join product_category as pc on p.id = pc.product_id
+left join category as c on pc.category_id = c.id

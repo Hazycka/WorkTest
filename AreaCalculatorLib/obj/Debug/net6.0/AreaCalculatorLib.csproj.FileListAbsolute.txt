@@ -1,0 +1,11 @@
+D:\Temp\C# learning\AreaCalculatorLib\bin\Debug\net6.0\AreaCalculatorLib.deps.json
+D:\Temp\C# learning\AreaCalculatorLib\bin\Debug\net6.0\AreaCalculatorLib.dll
+D:\Temp\C# learning\AreaCalculatorLib\bin\Debug\net6.0\ref\AreaCalculatorLib.dll
+D:\Temp\C# learning\AreaCalculatorLib\bin\Debug\net6.0\AreaCalculatorLib.pdb
+D:\Temp\C# learning\AreaCalculatorLib\obj\Debug\net6.0\AreaCalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Temp\C# learning\AreaCalculatorLib\obj\Debug\net6.0\AreaCalculatorLib.AssemblyInfoInputs.cache
+D:\Temp\C# learning\AreaCalculatorLib\obj\Debug\net6.0\AreaCalculatorLib.AssemblyInfo.cs
+D:\Temp\C# learning\AreaCalculatorLib\obj\Debug\net6.0\AreaCalculatorLib.csproj.CoreCompileInputs.cache
+D:\Temp\C# learning\AreaCalculatorLib\obj\Debug\net6.0\AreaCalculatorLib.dll
+D:\Temp\C# learning\AreaCalculatorLib\obj\Debug\net6.0\ref\AreaCalculatorLib.dll
+D:\Temp\C# learning\AreaCalculatorLib\obj\Debug\net6.0\AreaCalculatorLib.pdb

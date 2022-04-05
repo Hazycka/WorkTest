@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AreaCalculator/1.0.0": {
+        "dependencies": {
+          "AreaCalculatorLib": "1.0.0"
+        },
+        "runtime": {
+          "AreaCalculator.dll": {}
+        }
+      },
+      "AreaCalculatorLib/1.0.0": {
+        "runtime": {
+          "AreaCalculatorLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AreaCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AreaCalculatorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
